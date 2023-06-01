@@ -5,18 +5,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 ## Demo
 
-
-
-https://github.com/kartikayasija/chat-app/assets/115306535/7aae21fb-a523-4393-a417-d3868f213c8c
-
-
-![mainscreen](https://github.com/kartikayasija/chat-app/assets/115306535/a551833e-b12c-43dc-9c09-8d778eda22ea)
-![search](https://github.com/kartikayasija/chat-app/assets/115306535/106081fd-5472-4746-bebb-11c1eadf7679)
-
-![signup](https://github.com/kartikayasija/chat-app/assets/115306535/268ecaa5-38fa-4253-a2e0-8e184c45aa8c)
-![login](https://github.com/kartikayasija/chat-app/assets/115306535/396d56eb-56c3-4661-95f5-9d06a20af04b)
-
-
+https://github.com/utkarsh006/Chat-MERN-/assets/94545831/ad6d7844-1645-4317-8e29-6b782b32f558
 
 
 ## Tech Stack
